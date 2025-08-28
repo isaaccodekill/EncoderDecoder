@@ -1,4 +1,4 @@
-#Sequence-to-Sequence German to English Translation with PyTorch Lightning
+Sequence-to-Sequence German to English Translation with PyTorch Lightning
 =========================================================================
 
 This project implements a Sequence-to-Sequence (Seq2Seq) neural machine translation model using LSTMs. The model is built with PyTorch and trained using the PyTorch Lightning framework to translate sentences from German to English.
