@@ -56,3 +56,7 @@ The entire pipeline is managed within a `Seq2seq` `LightningModule`, which clean
 
 Tensor boards 
 ---------------
+
+
+<img width="707" height="506" alt="Screenshot 2025-08-28 at 01 55 46" src="https://github.com/user-attachments/assets/6bbc1636-e541-40fd-91bb-d53471ed0847" />
+
