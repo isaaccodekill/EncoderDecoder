@@ -59,4 +59,11 @@ Tensor boards
 
 
 <img width="707" height="506" alt="Screenshot 2025-08-28 at 01 55 46" src="https://github.com/user-attachments/assets/6bbc1636-e541-40fd-91bb-d53471ed0847" />
+<img width="786" height="501" alt="Screenshot 2025-08-28 at 01 55 53" src="https://github.com/user-attachments/assets/0f242a40-fcfe-4f16-966e-2e93755b8f02" />
+<img width="785" height="492" alt="Screenshot 2025-08-28 at 01 56 02" src="https://github.com/user-attachments/assets/5bb24027-ee1c-42ff-abbc-6cf62f203f11" />
+<img width="785" height="490" alt="Screenshot 2025-08-28 at 01 56 11" src="https://github.com/user-attachments/assets/f4fb64c0-5c95-49c7-9659-164cae134bbd" />
+<img width="784" height="492" alt="Screenshot 2025-08-28 at 01 56 21" src="https://github.com/user-attachments/assets/045b4a80-1254-44d9-be6c-85ecacbf41b1" />
+
+
+
 
